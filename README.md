@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlleNeri
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Node and its most important libraries
-- 💞️ I’m looking to collaborate on MERN and React projects
+- 🌱 I’m currently learning Node and its most important libraries an frameworks
+- 💞️ I’m looking to collaborate on Node projects
 - 📫 How to reach me: aleneri2002@gmail.com
 
 <!---
